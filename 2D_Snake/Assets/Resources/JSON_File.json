@@ -1,0 +1,12 @@
+{
+	"FoodObjects": [
+			{
+				"Name": "RedApple",
+				"Points": 15
+			},
+			{
+				"Name": "Orange",
+				"Points": 20
+			}
+	]
+}
